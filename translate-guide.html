@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Free Image Hosting Script</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Cabin:400' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/style.css" />
+    <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+    <script src="<?php echo base_url(); ?>js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<body>
+	
+	<div class="container">
+		
+		<div class="well">
+			<h3>Translating Step [1]</h3>
+			Our system is like wordpress translating system. It uses native PHP functions based on .po &amp; .mo files.<br/>
+			You will need to download a tool like : <strong>POEdit</strong>.
+			
+			<a href="http://www.poedit.net/download.php">http://www.poedit.net/download.php</a> 
+			
+			<h3>Translating Step [2]</h3>
+			Once you have PoEdit installed go to "Translate Required PoEdit Files" folder inside the script archive and open 
+			a file called "scripteen.po". Start translating the file.
+			
+			<h3>Translating Step [3]</h3>
+			Assuming you've finished translating the po file now :<br/>
+			
+			<ul>
+				<li>Go create a folder inside locale folder with your locale name. For example for german I would create a folder 
+					called <strong>de_DE</strong>, for italian <strong>it_IT</strong> and so on.</li>
+			    <li>Inside the new folder create another folder called <strong>LC_MESSAGES</strong>. Inside it 
+			    	copy both scripteen.po and scripteen.mo</li>
+			</ul>
+			
+			<h3>Translating Last Step [4]</h3>
+			Edit translation.php lines 11-12<br/>
+			For example for german I would put : <br/>
+			putenv('LC_ALL=de_DE');<br/>
+			setlocale(LC_ALL, 'de_DE');<br/>
+			<br/>
+ 			
+ 			<br/>
+ 			
+		</div>
+		
+	</div>
+	
+</body>
+</html>

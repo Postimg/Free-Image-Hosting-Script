@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Free Image Hosting Script</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Cabin:400' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/style.css" />
+    <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+    <script src="<?php echo base_url(); ?>js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<body>
+	
+	<div class="container">
+		
+		<div class="well">
+			<h3>Installation Step [1]</h3>
+			First step is to create a MySQL Database &amp; Username then assign full rights to it for the user created. 
+			
+			<h3>Installation Step [2]</h3>
+			Go to phpMyAdmin and import the database file "scripteen.sql" from "database_upload" folder.
+			
+			<h3>Installation Step [3]</h3>
+			Go to "db.php" file and edit the following line with a text editor. 
+			<br/><span class="alert-info">Lines 51-54</span><br/>
+			$db = new ezSQL_mysql('DB_USER', 'DB_PASS', 'DB_NAME', 'DB_HOST');
+			
+			<h3>Last Step! IMPORTANT! [4]</h3>
+			Go to "bootstrap.php" file and edit the following lines with a text editor.
+			<br/><span class="alert-info">Line 7</span><br/>
+			
+			define('SITE_URL', 'http://local.doitforfun'); Replace with your own site URL<br/>
+ 			
+ 			<br/>
+ 			
+ 			<span class="alert-info">Lines 24-25 - admin details</span><br/>
+ 			
+ 			define("ADMIN_USERNAME", "admin");<br/>
+			define("ADMIN_PASSWORD", "admin123");<br/>
+ 			
+ 			<br/>
+ 			<span class="alert-error">Admin URL is : http://yoursite.com/admin</span>
+ 			
+ 			<br/><br/><br/>
+ 			<a href="translate-guide.html">Translate Guide</a>
+ 			
+		</div>
+		
+	</div>
+	
+</body>
+</html>

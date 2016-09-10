@@ -1,0 +1,602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-02-19 16:19+0200\n"
+"PO-Revision-Date: 2013-02-19 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/crivion/www/doitforfun/app\n"
+"X-Poedit-SearchPath-1: /Users/crivion/www/doitforfun/layout\n"
+"X-Poedit-SearchPath-2: /Users/crivion/www/doitforfun\n"
+
+#: /Users/crivion/www/doitforfun/app/account.php:23
+msgid "Incorrect login credentials"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/account.php:26
+msgid "Please enter login credentials"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/admin-servers.php:17
+msgid "Dont remove the main server."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/admin-servers.php:40
+msgid "Complete all the fields!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/admin-servers.php:70
+msgid "Database ERROR! Cannot insert FTP Server Details!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/admin-tos.php:16
+msgid "Successfully saved."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/admin-tos.php:18
+msgid "Nothing saved."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/admin.php:23
+msgid "Invalid credentials"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/admin.php:27
+msgid "Enter credentials"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-delete.php:7
+msgid "You need to login to view this page."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-delete.php:15
+msgid "Invalid ID"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-delete.php:38
+msgid "Image removed"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-delete.php:42
+msgid "You cannot delete an image which is not yours"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-delete.php:46
+msgid "No image with this ID"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-join.php:13
+msgid "Please enter a valid email"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-join.php:19
+msgid "Please use only A-Z characters, numbers and underscores for username"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-join.php:25
+msgid "Please have at least 6 characters for the password."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-join.php:33
+msgid "Username taken, please choose another one"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-join.php:36
+msgid "Email taken, please choose another one"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-join.php:45
+msgid "You are now registered & logged in as <strong>"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:8
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:8
+msgid "You have to agree to the terms and conditions in order to upload."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:30
+msgid "Could not get file extension for URL #"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:40
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:33
+msgid "Error with file extension no #"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:49
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:57
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:49
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:61
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:70
+msgid "Error with file no #"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:50
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:50
+msgid "The image is corrupt or not a valid image file!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:58
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:62
+msgid "The image could not be uploaded!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:103
+msgid "Error with URL #"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload-remote.php:113
+msgid "Please enter URL for at least one file"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:40
+msgid "Error with file mimetype no #"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:71
+msgid ""
+"The image could not be uploaded! Check temporary folder image.uploads/temp "
+"to be writable"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:76
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:100
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:122
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:145
+msgid "The image could not be uploaded on remote FTP Server"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:174
+msgid "Error with file "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/ajax-upload.php:186
+msgid "Please pick up at least one file"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/just-uploaded.php:6
+msgid "You accessed this page in error!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/my-account.php:16
+msgid "Password must be at least 6 characters long."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/my-account.php:19
+msgid "Changes saved."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/user-gallery.php:12
+msgid "No user with this username found"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/view-image.php:9
+msgid "No image parameter passed. Nothing to show"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/app/library/library.php:80
+#: /Users/crivion/www/doitforfun/app/library/library.php:107
+msgid "Folder image.uploads is not writeable"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/404.php:4
+msgid "404 Error! Page not found"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/404.php:5
+#: /Users/crivion/www/doitforfun/layout/tos.php:5
+msgid "Go back to homepage"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/account.php:7
+msgid "Join Now. It's Free!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/account.php:11
+#: /Users/crivion/www/doitforfun/layout/account.php:46
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:62
+#: /Users/crivion/www/doitforfun/layout/admin-users.php:15
+#: /Users/crivion/www/doitforfun/layout/my-account.php:8
+msgid "Username"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/account.php:18
+#: /Users/crivion/www/doitforfun/layout/admin-users.php:14
+#: /Users/crivion/www/doitforfun/layout/my-account.php:15
+msgid "Email"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/account.php:25
+#: /Users/crivion/www/doitforfun/layout/account.php:49
+#: /Users/crivion/www/doitforfun/layout/my-account.php:22
+msgid "Password"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/account.php:31
+msgid "Join Now"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/account.php:41
+msgid "Existing Member, Login"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/account.php:52
+msgid "Login"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-customize.php:4
+msgid "Administration : Customize Design"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-login.php:4
+msgid "Please login"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:4
+msgid "Administration : Dashboard"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:9
+msgid "Total Images : "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:10
+msgid "Uploaded Today : "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:12
+msgid "Total Members: "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:19
+msgid "Total Servers : "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:20
+msgid "Images / Server : "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:24
+msgid "Server : "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-main.php:24
+msgid " images"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-navigation.php:2
+msgid "Dashboard"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-navigation.php:3
+msgid "Customize Design"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-navigation.php:4
+msgid "Users"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-navigation.php:5
+msgid "Servers"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-navigation.php:6
+msgid "Pictures"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-navigation.php:7
+msgid "Title & TOS"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-navigation.php:8
+msgid "Log Out"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-pictures.php:4
+msgid "Pictures Administration"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-pictures.php:14
+msgid "User"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-pictures.php:15
+msgid "Date"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-pictures.php:16
+msgid "Views"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-pictures.php:17
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:61
+msgid "Server"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-pictures.php:18
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:65
+#: /Users/crivion/www/doitforfun/layout/admin-users.php:17
+msgid "Remove"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-pictures.php:62
+msgid "No pictures yet!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:4
+msgid "Servers Administration"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:4
+msgid "Add New"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:11
+#, php-format
+msgid ""
+"ATTENTION! You must create a writable folder on the remote FTP called "
+"<strong>%s</strong> <br/>visible to the public (ie : in public_html/ on "
+"Cpanel)"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:63
+msgid "Path"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:64
+msgid "URL"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-servers.php:87
+msgid "No servers yet!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-tos.php:4
+msgid "Administration : Title & TOS"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-users.php:4
+msgid "Users Administration"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-users.php:16
+msgid "Uploads"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-users.php:28
+msgid "images"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/admin-users.php:38
+msgid "No members yet!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/gallery.php:4
+#: /Users/crivion/www/doitforfun/layout/user-gallery.php:4
+msgid "Gallery"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/gallery.php:8
+msgid "No items in the gallery yet!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/gallery.php:31
+#: /Users/crivion/www/doitforfun/layout/user-gallery.php:34
+msgid "Show more images"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:54
+msgid "UPLOAD"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:55
+msgid "GALLERY"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:57
+msgid "LOGIN"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:58
+msgid "SIGNUP"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:60
+msgid "MY ACCOUNT"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:61
+msgid "LOG OUT"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:63
+msgid "TOS"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:72
+msgid "FREE UPLOAD"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:73
+msgid ""
+"We dont ask you to SIGN UP for an account to upload.\n"
+"  \t\t\t\t\t<br/><br/>\n"
+"  \t\t\t\t\tHowever registering gives you the option to remove the picture "
+"later, find it easier, etc."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:78
+msgid "EASY TO SHARE"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:79
+msgid ""
+"We provide you with the codes for embedding and share. <br /><br />\n"
+"  \t\t\t\t\tHTML Codes, FORUM BB CODES and easy one click to share on "
+"Facebook, by email, etc.  "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:83
+msgid "MORE FEATURES"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/header.php:84
+msgid ""
+"Multiple file upload at once, allowing JPEG, PNG AND GIF files are only a "
+"few to mention.\n"
+"  \t\t\t\t\t<br/><br/>\n"
+"  \t\t\t\t\tEnjoy using our service and share the word."
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:6
+#: /Users/crivion/www/doitforfun/layout/upload.php:6
+msgid "Upload Images"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:8
+#: /Users/crivion/www/doitforfun/layout/upload.php:8
+msgid "Local File"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:9
+#: /Users/crivion/www/doitforfun/layout/upload.php:9
+msgid "Remote File"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:21
+#: /Users/crivion/www/doitforfun/layout/index.php:28
+#: /Users/crivion/www/doitforfun/layout/index.php:36
+#: /Users/crivion/www/doitforfun/layout/index.php:44
+#: /Users/crivion/www/doitforfun/layout/index.php:52
+#: /Users/crivion/www/doitforfun/layout/upload.php:20
+#: /Users/crivion/www/doitforfun/layout/upload.php:27
+#: /Users/crivion/www/doitforfun/layout/upload.php:35
+#: /Users/crivion/www/doitforfun/layout/upload.php:43
+#: /Users/crivion/www/doitforfun/layout/upload.php:51
+msgid "Choose files from your computer"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:73
+#: /Users/crivion/www/doitforfun/layout/index.php:141
+#: /Users/crivion/www/doitforfun/layout/upload.php:59
+msgid "Upload Files"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:78
+#: /Users/crivion/www/doitforfun/layout/index.php:146
+#: /Users/crivion/www/doitforfun/layout/upload.php:64
+msgid "I agree to the "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:78
+#: /Users/crivion/www/doitforfun/layout/index.php:146
+#: /Users/crivion/www/doitforfun/layout/upload.php:64
+msgid "Terms of Service"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/index.php:100
+#: /Users/crivion/www/doitforfun/layout/index.php:105
+#: /Users/crivion/www/doitforfun/layout/index.php:111
+#: /Users/crivion/www/doitforfun/layout/index.php:117
+#: /Users/crivion/www/doitforfun/layout/index.php:123
+msgid "Enter file URL"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:49
+msgid "Images were not found in database"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:57
+#: /Users/crivion/www/doitforfun/layout/view-image.php:39
+msgid "Share this image"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:69
+#: /Users/crivion/www/doitforfun/layout/view-image.php:51
+msgid "Codes to embed"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:70
+#: /Users/crivion/www/doitforfun/layout/view-image.php:52
+msgid "View Photo Link"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:74
+#: /Users/crivion/www/doitforfun/layout/view-image.php:56
+msgid "Direct Original Link"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:78
+#: /Users/crivion/www/doitforfun/layout/view-image.php:60
+msgid "HTML Original Size"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:81
+#: /Users/crivion/www/doitforfun/layout/view-image.php:63
+msgid "FORUM Original Size"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:86
+#: /Users/crivion/www/doitforfun/layout/view-image.php:68
+msgid "Direct Thumbnail Link"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:89
+#: /Users/crivion/www/doitforfun/layout/view-image.php:71
+msgid "HTML Thumbnail Size"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/just-uploaded.php:92
+#: /Users/crivion/www/doitforfun/layout/view-image.php:74
+msgid "FORUM Thumbnail Size"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/layout-error.php:4
+msgid "Layout Error!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/layout-error.php:5
+msgid " layout file does not exist!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/my-account.php:4
+msgid "My Account"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/my-account.php:22
+msgid "enter current or a new one"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/my-account.php:28
+msgid "Update Password"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/tos.php:4
+msgid "Terms Of Service"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/user-gallery.php:10
+msgid "No items in this users's gallery yet!"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/view-image.php:23
+msgid "Uploaded by "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/view-image.php:23
+msgid " On "
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/view-image.php:27
+msgid "Remove this picture"
+msgstr ""
+
+#: /Users/crivion/www/doitforfun/layout/view-image.php:85
+msgid "No Image found with this name"
+msgstr ""
