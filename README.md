@@ -1,8 +1,8 @@
 # Free-Image-Hosting-Script
-Free Image Hosting Script<br/>
+Free Image Hosting Script<br/><br/>
 Upload all files to your hosting<br/>
-Edit db.php<br/><br/>
-Upload sql to your phpmyadmin<br/>
+Edit db.php
+Upload sql to your phpmyadmin
 
 That's it<br/>
 
